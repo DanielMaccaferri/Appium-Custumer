@@ -1,0 +1,6 @@
+br\com\customer\screens\HomeScreen.class
+br\com\customer\driver\Driver.class
+br\com\customer\steps\VisitarHomeSteps.class
+br\com\customer\funcionalidade\InsertClientsFuncionalidade.class
+br\com\customer\screens\InsertClientsScreen.class
+br\com\customer\funcionalidade\HomeFuncionalidade.class
